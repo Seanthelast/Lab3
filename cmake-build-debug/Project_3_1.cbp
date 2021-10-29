@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_3_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_3_1">
+				<Option output="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Project_3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/s/slast99/cs236/Project_3-Test/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_3_1"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_3_1/fast">
+				<Option output="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Project_3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/users/guest/s/slast99/cs236/Project_3-Test/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_3_1/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/s/slast99/cs236/Project_3-Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/AddAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/AddAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Automaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/BadString.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/BadString.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/BlockCommentAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/BlockCommentAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/ColonAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/ColonAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/ColonDashAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/ColonDashAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/CommaAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/CommaAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/CommentAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/CommentAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Database.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Database.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/DatalogProgam.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/DatalogProgram.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/EndOfFile.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/EndOfFile.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/FactsAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/FactsAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Header.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Header.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/IDAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/IDAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Interpreter.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Interpreter.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Left_ParenAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Left_ParenAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Lexer.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Lexer.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/MultiplyAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/MultiplyAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Parameter.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Parameter.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Parser.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Parser.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/PeriodAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/PeriodAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Predicate.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Predicate.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Q_MarkAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Q_MarkAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Queries.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/QueriesAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Relation.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Relation.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Right_ParenAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Right_ParenAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Rule.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Rule.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/RulesAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/RulesAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/SchemesAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/SchemesAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/StringAutomaton.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/StringAutomaton.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Token.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Token.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Tuple.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/Tuple.h">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/main.cpp">
+			<Option target="Project_3_1"/>
+		</Unit>
+		<Unit filename="/users/guest/s/slast99/cs236/Project_3-Test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
